@@ -1,0 +1,48 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(De\ Paul\ School-Campus.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.hero
+{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: #FFF;
+    text-align: center;
+}
+
+h1{
+    color: rgb(10, 117, 218);
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    letter-spacing: 15px;
+}
+
+hr{
+    width: 50%;
+    margin: 30px auto;
+    border: solid rgb(217, 255, 3);
+}
+
+p{
+    color: rgb(10, 218, 148);
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+h2{
+    color: rgb(91, 221, 4);
+    font-family: 'Poppins', sans-serif;
+}
+
